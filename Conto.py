@@ -41,13 +41,13 @@ print(conto.saldo)
 #aggiungere al deposito
 conto.deposit(100)    
 
-#far vedere il deposito
+#visionare il deposito
 print(conto)
 
 #effettuare un ritiro
 conto.ritirare(50)
 
-#rivedere il saldo 
+#visionare l'ammontare del conto dopo il ritiro
 print(conto)
 
 #effettuare un ritiro maggiore del saldo 
